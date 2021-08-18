@@ -9,3 +9,9 @@ public class App {
  */
 
 // コメントアウト一行
+
+/**
+ * javadoc形式 author: UDAZ copyright: MIT
+ * 
+ * @param args
+ */
