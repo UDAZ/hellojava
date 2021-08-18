@@ -3,3 +3,9 @@ public class App {
         System.out.println("こんにちは、世界！");
     }
 }
+
+/*
+ * コメントアウト複数行
+ */
+
+// コメントアウト一行
