@@ -12,6 +12,6 @@ public class App {
 
 /**
  * javadoc形式 author: UDAZ copyright: MIT
- * 
+ *
  * @param args
  */
